@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I'm currently working on web apps.
 - 💡 I'm currently learning more backend development and python.
-- 🌷 How to reach me: hello@5ftbeanstalk.ca
+- 🌷 How to reach me: annie.c.chhan@gmail.com
