@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I'm currently working on web apps.
 - 💡 I'm currently learning more backend development and python.
-- 💐 I'll be looking to collaborate soon.
-- 💬 I'm looking for help with networking.
 - 🌷 How to reach me: hello@5ftbeanstalk.ca
